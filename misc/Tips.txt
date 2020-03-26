@@ -1,6 +1,7 @@
 trash-cli
-papierkorb für kommandozeile
+papierkorb fÃ¼r kommandozeile
 
 https://ubuntuusers.de/
 portal mit allen infos rund um ubuntu
 
+https://wiki.ubuntuusers.de/Sonderzeichen/
